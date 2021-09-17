@@ -11,7 +11,9 @@ const fetch = require('node-fetch');
 const whereMessages = [
         'https://c.tenor.com/MUfeNecHTiAAAAAM/arrival-darth-vader.gif',
         'https://tenor.com/view/patience-patiently-waiting-gif-12710259',
-        'https://tenor.com/view/star-wars-yoda-patience-sw3-gif-21070142'
+        'https://tenor.com/view/star-wars-yoda-patience-sw3-gif-21070142',
+	'https://tenor.com/view/yoda-wisdom-starwars-nod-gif-5316035',
+	'https://tenor.com/view/mandalorian-baby-yoda-hello-gif-19013340'
 ];
 
 // Configure logger settings
